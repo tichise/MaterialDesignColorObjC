@@ -1,7 +1,7 @@
 #### MaterialDesignColorObjC ![CocoaPods Version](https://img.shields.io/cocoapods/v/MaterialDesignColorObjC.svg?style=flat) ![Platform](https://img.shields.io/cocoapods/p/MaterialDesignColorObjC.svg?style=flat) ![License](https://img.shields.io/cocoapods/l/MaterialDesignColorObjC.svg?style=flat)
 ==============
 
-<img src="https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/6689/iOS_Simulator_Screen_Shot_2015.06.09_23.45.20.png" width="320px">
+<img src="https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/6689/iOS_Simulator_Screen_Shot_2015.06.09_23.45.20.png" width="160px">
 
 
 Color library for Objective C. Currently supports [GoogleMaterialDesignColor](https://www.google.com/design/spec/style/color.html)
