@@ -9,10 +9,5 @@ Color library for Objective C. Currently supports [GoogleMaterialDesignColor](ht
 MaterialDesignColorObjCはGoogleがマテリアルデザインで推奨しているカラーコードを簡単に呼び出せるObjectiveCライブラリです。 cocoapodsからダウンロードして使えます。Swift版は[こちら](https://github.com/tichise/MaterialDesignColor)です。
 
 
-#### Examples
-
-```html
-```
-
 #### Installation (CocoaPods)
 `pod MaterialDesignColorObjC`
